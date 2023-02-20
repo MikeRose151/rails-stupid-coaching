@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+h1 {
+  margin: 64px 16px;
+  padding-top: 16px;
+}
+
+a {
+  text-decoration: none !important;
+  margin: 6px;
+}
+
+ .chat-box {
+  border-left: solid rgb(185, 185, 185) 8px;
+  padding-left: 16px;
+  margin: 16px;
+ }
